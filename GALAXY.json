@@ -1,0 +1,454 @@
+{
+  "images": [
+    {
+      "id": "heic2018b",
+      "title": "Galaxy NGC 2525",
+      "width": 3657,
+      "height": 3920,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic2018b.jpg",
+      "url": "/images/heic2018b/",
+      "potw": ""
+    },
+    {
+      "id": "potw1345a",
+      "title": "Antennae Galaxies reloaded",
+      "width": 4240,
+      "height": 4211,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1345a.jpg",
+      "url": "/images/potw1345a/",
+      "potw": "11 November 2013"
+    },
+    {
+      "id": "heic0817a",
+      "title": "Magnetic monster NGC 1275",
+      "width": 4633,
+      "height": 3590,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0817a.jpg",
+      "url": "/images/heic0817a/",
+      "potw": ""
+    },
+    {
+      "id": "heic0406a",
+      "title": "Hubble sees galaxies galore",
+      "width": 6200,
+      "height": 6200,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0406a.jpg",
+      "url": "/images/heic0406a/",
+      "potw": ""
+    },
+    {
+      "id": "potw2049a",
+      "title": "The Stellar Forge",
+      "width": 4040,
+      "height": 3802,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw2049a.jpg",
+      "url": "/images/potw2049a/",
+      "potw": "7 December 2020"
+    },
+    {
+      "id": "opo0328a",
+      "title": "Hubble mosaic of the majestic Sombrero Galaxy",
+      "width": 11472,
+      "height": 6429,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/opo0328a.jpg",
+      "url": "/images/opo0328a/",
+      "potw": ""
+    },
+    {
+      "id": "potw1811a",
+      "title": "Spirals and supernovae",
+      "width": 3928,
+      "height": 4538,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1811a.jpg",
+      "url": "/images/potw1811a/",
+      "potw": "12 March 2018"
+    },
+    {
+      "id": "heic0506a",
+      "title": "Out of this whirl: The Whirlpool Galaxy (M51) and companion galaxy",
+      "width": 11477,
+      "height": 7965,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0506a.jpg",
+      "url": "/images/heic0506a/",
+      "potw": ""
+    },
+    {
+      "id": "opo0511a",
+      "title": "Hubble spies cosmic dust bunnies",
+      "width": 3228,
+      "height": 3280,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/opo0511a.jpg",
+      "url": "/images/opo0511a/",
+      "potw": ""
+    },
+    {
+      "id": "opo0501a",
+      "title": "A poster-size image of the beautiful barred spiral galaxy NGC 1300",
+      "width": 6637,
+      "height": 3787,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/opo0501a.jpg",
+      "url": "/images/opo0501a/",
+      "potw": ""
+    },
+    {
+      "id": "heic0206b",
+      "title": "Hubbles newest camera takes a deep look at two merging galaxies",
+      "width": 3857,
+      "height": 2893,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0206b.jpg",
+      "url": "/images/heic0206b/",
+      "potw": ""
+    },
+    {
+      "id": "heic0206a",
+      "title": "A wallpaper; of distant galaxies is a stunning backdrop for a runaway galaxy",
+      "width": 4360,
+      "height": 3798,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0206a.jpg",
+      "url": "/images/heic0206a/",
+      "potw": ""
+    },
+    {
+      "id": "heic1302a",
+      "title": "Hubble view of Messier 106",
+      "width": 7910,
+      "height": 6178,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic1302a.jpg",
+      "url": "/images/heic1302a/",
+      "potw": ""
+    },
+    {
+      "id": "heic1104a",
+      "title": "Flocculent spiral NGC 2841",
+      "width": 3897,
+      "height": 3044,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic1104a.jpg",
+      "url": "/images/heic1104a/",
+      "potw": ""
+    },
+    {
+      "id": "heic0910s",
+      "title": "Barred spiral galaxy NGC 6217",
+      "width": 2631,
+      "height": 3289,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0910s.jpg",
+      "url": "/images/heic0910s/",
+      "potw": ""
+    },
+    {
+      "id": "heic0910i",
+      "title": "Galactic wreckage in Stephas Quintet",
+      "width": 6064,
+      "height": 6760,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0910i.jpg",
+      "url": "/images/heic0910i/",
+      "potw": ""
+    },
+    {
+      "id": "heic0905a",
+      "title": "Dramatically backlit dust lanes in NGC 7049",
+      "width": 1766,
+      "height": 1948,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0905a.jpg",
+      "url": "/images/heic0905a/",
+      "potw": ""
+    },
+    {
+      "id": "heic0719a",
+      "title": "Holiday wishes from the Hubble Space Telescope",
+      "width": 4014,
+      "height": 3865,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0719a.jpg",
+      "url": "/images/heic0719a/",
+      "potw": ""
+    },
+    {
+      "id": "heic0706a",
+      "title": "Stellar nursery in the arms of NGC 1672",
+      "width": 5302,
+      "height": 3805,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0706a.jpg",
+      "url": "/images/heic0706a/",
+      "potw": ""
+    },
+    {
+      "id": "opo0624a",
+      "title": "ACS image of NGC 5866",
+      "width": 3190,
+      "height": 3756,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/opo0624a.jpg",
+      "url": "/images/opo0624a/",
+      "potw": ""
+    },
+    {
+      "id": "heic0604a",
+      "title": "The magnificent starburst galaxy Messier 82",
+      "width": 9500,
+      "height": 7400,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0604a.jpg",
+      "url": "/images/heic0604a/",
+      "potw": ""
+    },
+    {
+      "id": "heic0602a",
+      "title": "Largest ever galaxy portrait - stunning HD image of Pinwheel Galaxy",
+      "width": 15852,
+      "height": 12392,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0602a.jpg",
+      "url": "/images/heic0602a/",
+      "potw": ""
+    },
+    {
+      "id": "opo9941a",
+      "title": "A grazing encounter between two spiral galaxies",
+      "width": 2907,
+      "height": 1486,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/opo9941a.jpg",
+      "url": "/images/opo9941a/",
+      "potw": ""
+    },
+    {
+      "id": "potw2114a",
+      "title": "Spiral Snapshot",
+      "width": 4077,
+      "height": 3978,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw2114a.jpg",
+      "url": "/images/potw2114a/",
+      "potw": "5 April 2021"
+    },
+    {
+      "id": "potw2108a",
+      "title": "Eye in the Sky",
+      "width": 4032,
+      "height": 3483,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw2108a.jpg",
+      "url": "/images/potw2108a/",
+      "potw": "22 February 2021"
+    },
+    {
+      "id": "heic1516a",
+      "title": "Hubble image of ESO 381-12",
+      "width": 3936,
+      "height": 3849,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic1516a.jpg",
+      "url": "/images/heic1516a/",
+      "potw": ""
+    },
+    {
+      "id": "opo0123a",
+      "title": "Galaxy playing twister",
+      "width": 1435,
+      "height": 732,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/opo0123a.jpg",
+      "url": "/images/opo0123a/",
+      "potw": ""
+    },
+    {
+      "id": "potw1441a",
+      "title": "Turquoise-tinted plumes in the Large Magellanic Cloud",
+      "width": 1483,
+      "height": 1194,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1441a.jpg",
+      "url": "/images/potw1441a/",
+      "potw": "13 October 2014"
+    },
+    {
+      "id": "heic1305a",
+      "title": "Hubble image of Messier 77",
+      "width": 2948,
+      "height": 2321,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic1305a.jpg",
+      "url": "/images/heic1305a/",
+      "potw": ""
+    },
+    {
+      "id": "heic1110a",
+      "title": "Spectacular Hubble view of Centaurus A",
+      "width": 4027,
+      "height": 4174,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic1110a.jpg",
+      "url": "/images/heic1110a/",
+      "potw": ""
+    },
+    {
+      "id": "heic0814a",
+      "title": "Abell 2218",
+      "width": 4739,
+      "height": 4504,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0814a.jpg",
+      "url": "/images/heic0814a/",
+      "potw": ""
+    },
+    {
+      "id": "potw1805a",
+      "title": "Twins with differences",
+      "width": 4061,
+      "height": 3038,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1805a.jpg",
+      "url": "/images/potw1805a/",
+      "potw": "29 January 2018"
+    },
+    {
+      "id": "potw1542a",
+      "title": "Starburst galaxy Messier 94",
+      "width": 1002,
+      "height": 981,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1542a.jpg",
+      "url": "/images/potw1542a/",
+      "potw": "19 October 2015"
+    },
+    {
+      "id": "potw2144a",
+      "title": "Cosmic Fireworks",
+      "width": 2976,
+      "height": 3106,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw2144a.jpg",
+      "url": "/images/potw2144a/",
+      "potw": "1 November 2021"
+    },
+    {
+      "id": "potw1921a",
+      "title": "Bucking the trend",
+      "width": 3762,
+      "height": 3000,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1921a.jpg",
+      "url": "/images/potw1921a/",
+      "potw": "27 May 2019"
+    },
+    {
+      "id": "potw1850a",
+      "title": "25 years of stunning definition",
+      "width": 3679,
+      "height": 3645,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1850a.jpg",
+      "url": "/images/potw1850a/",
+      "potw": "10 December 2018"
+    },
+    {
+      "id": "potw1849a",
+      "title": "Clusters within clusters",
+      "width": 18281,
+      "height": 10283,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1849a.jpg",
+      "url": "/images/potw1849a/",
+      "potw": "3 December 2018"
+    },
+    {
+      "id": "heic1811a",
+      "title": "Peculiar galaxy NGC 3256",
+      "width": 3948,
+      "height": 3978,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic1811a.jpg",
+      "url": "/images/heic1811a/",
+      "potw": ""
+    },
+    {
+      "id": "potw1822a",
+      "title": "A green cosmic arc",
+      "width": 3461,
+      "height": 3037,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1822a.jpg",
+      "url": "/images/potw1822a/",
+      "potw": "28 May 2018"
+    },
+    {
+      "id": "heic1806a",
+      "title": "A ghostly galaxy lacking dark matter",
+      "width": 3000,
+      "height": 2000,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic1806a.jpg",
+      "url": "/images/heic1806a/",
+      "potw": ""
+    },
+    {
+      "id": "heic1712a",
+      "title": "NGC 1512 and NGC 1510",
+      "width": 11423,
+      "height": 4177,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic1712a.jpg",
+      "url": "/images/heic1712a/",
+      "potw": ""
+    },
+    {
+      "id": "heic1503a",
+      "title": "Hubble image of NGC 7714",
+      "width": 3269,
+      "height": 2240,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic1503a.jpg",
+      "url": "/images/heic1503a/",
+      "potw": ""
+    },
+    {
+      "id": "heic1502a",
+      "title": "Sharpest ever view of the Andromeda Galaxy",
+      "width": 69536,
+      "height": 22230,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic1502a.jpg",
+      "url": "/images/heic1502a/",
+      "potw": ""
+    },
+    {
+      "id": "opo1438b",
+      "title": "Spiral galaxy M81",
+      "width": 10555,
+      "height": 7223,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/opo1438b.jpg",
+      "url": "/images/opo1438b/",
+      "potw": ""
+    },
+    {
+      "id": "heic0814b",
+      "title": "Abell 1703",
+      "width": 4784,
+      "height": 4961,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/heic0814b.jpg",
+      "url": "/images/heic0814b/",
+      "potw": ""
+    },
+    {
+      "id": "potw2044a",
+      "title": "A Waterfall of Stars",
+      "width": 6462,
+      "height": 6616,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw2044a.jpg",
+      "url": "/images/potw2044a/",
+      "potw": "2 November 2020"
+    },
+    {
+      "id": "potw2006a",
+      "title": "Open Arms",
+      "width": 3130,
+      "height": 1886,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw2006a.jpg",
+      "url": "/images/potw2006a/",
+      "potw": "10 February 2020"
+    },
+    {
+      "id": "potw1940a",
+      "title": "A Spiral in Profile",
+      "width": 4079,
+      "height": 3789,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1940a.jpg",
+      "url": "/images/potw1940a/",
+      "potw": "7 October 2019"
+    },
+    {
+      "id": "potw1924a",
+      "title": "Spiral, elliptical, irregular",
+      "width": 6130,
+      "height": 3448,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1924a.jpg",
+      "url": "/images/potw1924a/",
+      "potw": "17 June 2019"
+    },
+    {
+      "id": "potw1802a",
+      "title": "A gargantuan collision",
+      "width": 7791,
+      "height": 4784,
+      "src": "https://cdn.spacetelescope.org/archives/images/thumb300y/potw1802a.jpg",
+      "url": "/images/potw1802a/",
+      "potw": "8 January 2018"
+    }
+  ]
+}
